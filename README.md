@@ -15,9 +15,10 @@ Ensure you have the following installed:
 - pandas
 - numpy
 - scikit-learn
-'''python
+
+```python
 pip install pandas numpy scikit-learn statsmodels
-'''
+```
 # Installation
 1. Clone the repository to your local machine:
 ```
